@@ -37,3 +37,7 @@ sudo cp flickdl.py /usr/local/bin/flickdl
 ```
 ./flickrdl.py https://www.flickr.com/photos/example/12345678910/sizes/o/,https://..."
 ```
+
+### License
+
+The software in this repository are released under the GNU GPLv3 License by Francesco Pira (dev[at]fpira[dot]com, fpira.com). You can read the terms of the license [here](http://www.gnu.org/licenses/gpl-3.0.html).
