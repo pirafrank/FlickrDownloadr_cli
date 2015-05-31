@@ -16,7 +16,10 @@ A simple way to download pictures from Flickr.
 
 ### Installation
 
-Just clone the repo, cd the directory and execute the script.
+1. clone the repo
+2. cd the directory
+3. chmod +x the script
+4. execute it!
 
 **OR**
 
@@ -24,6 +27,7 @@ You can install permanently (kind of) on your system running:
 
 ```
 sudo cp flickdl.py /usr/local/bin/flickdl
+sudo chmod +x /usr/local/bin/flickdl
 ```
 
 ### Usage
