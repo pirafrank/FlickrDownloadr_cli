@@ -1,10 +1,12 @@
 #!/usr/bin/env python2.7
 
 ##############################################################################
-# FlickrDownloadr
-# Download images from flickr.
+# FlickrDownloadr <https://github.com/pirafrank/FlickrDownloadr_cli>
+# Easy CLI utility to batch download images from flickr.
 #
-# Copyright (C) 2015 Francesco Pira <francescopira.me@gmail.com> <fpira.com>
+# Copyright (C) 2015 Francesco Pira <dev@fpira.com>
+#
+# This file is part of FlickrDownloadr_cli
 #
 # This script is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -18,7 +20,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this script.  If not, see <http://www.gnu.org/licenses/>.
-
+#
 ##############################################################################
 
 
